@@ -19,7 +19,7 @@ library(factoextra) # clustering algorithms & visualization
 library(ggplot2)
 
 #reading the dataset
-data <- read.csv("D:/acadgild/mail things/24 feb/wine.csv")
+data <- read.csv("D:/acadgild/wine.csv")
 View(data)
 #structure of it
 str(data)
